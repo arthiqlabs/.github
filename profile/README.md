@@ -1,6 +1,6 @@
 # ArthIQ Labs
 
-Where human intent meets autonomous execution.
+Human intent, meets AI-native execution.
 
 ---
 

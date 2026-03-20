@@ -1,7 +1,6 @@
 # ArthIQ Labs
 
-**AI-native IT, Digital & AI services.**
-We design, build, and deliver technology solutions with an AI-first approach.
+Where human intent meets autonomous execution.
 
 ---
 

@@ -23,4 +23,4 @@ at its core — which means faster delivery, lower cost, and no compromise on qu
 
 ---
 
-*Hawthorn Woods, IL · Founded 2026 · ArthIQ Labs LLC*
+Founded 2026 · ArthIQ Labs LLC*
